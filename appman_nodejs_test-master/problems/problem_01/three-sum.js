@@ -19,7 +19,3 @@ const threeSum = (nums, target) => {
 };
 
 module.exports = { threeSum };
-
-const inputArr = [5, 4, 3, 2, 1, 0]
-const target = 5
-threeSum(inputArr,target);
